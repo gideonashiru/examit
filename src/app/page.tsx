@@ -20,7 +20,7 @@ export default function Home() {
           <li>Gideon Ashiru</li>
           <li>Dixon Hung Yiu Mui</li>
           <li>Rayan Kashif</li>
-          <li>Aydin Ngong</li>
+          <li>Aydin Ngo</li>
           <li>Kunhao Zhang</li>
         </ul>
       </Paragraph>
