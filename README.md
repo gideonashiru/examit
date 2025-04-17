@@ -1,8 +1,8 @@
-# Group 16 BlackJack Website
+# Group 16 BlackJack Website (Software Engineering presentation site)
 - Our website was built on NextJS 
 
 ## Prerequisites 
-- npm package manager
+- install the npm package manager
 
 ## How to run
 type the following commands in the presentation root folder:
