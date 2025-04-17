@@ -12,7 +12,7 @@ export default function Home() {
       <span className="text-4xl">👋</span>
       <Heading className="font-black">Hello there! We&apos;re BlackJacK</Heading>
       <Paragraph className="max-w-xl mt-4">
-        comp3350 A02-Group 16
+      COMP 3350 -<Highlight> Software Engineering (University of Manitoba) </Highlight> A02-Group16
       </Paragraph>
       <Paragraph className="max-w-xl mt-4">
         Here is a list of our members:
